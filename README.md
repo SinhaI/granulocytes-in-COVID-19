@@ -1,5 +1,6 @@
 # granulocytes-in-COVID-19
-High-dimensional profiling reveals phenotypic heterogeneity and disease-specific alterations of granulocytes in COVID-19
+High-dimensional profiling reveals phenotypic heterogeneity and disease-specific alterations of granulocytes in COVID-19.
+
 The code in this repository was used for the above publication.  
 
 To clarify the molecular mechanisms linking neutrophil subsets with the soluble factors, a receptor−ligand interaction analysis using CellPhoneDB was performed(A) on a recently published single-cell RNA sequencing (scRNAseq) dataset(B). Monocytes, dendritic cells, and a subset of CD4+ T cells displayed the highest number of predicted interactions with all neutrophil subsets, irrespective of the disease severity. We detected a wide set of interactions between monocyte-derived (but also CD4+ T cell-derived) chemokines (i.e., CCL3, CXCL1, CXCL2, and CXCL8) binding CCR3 and CXCR1/2 on neutrophil subsets, particularly evident in patients with severe COVID19.
