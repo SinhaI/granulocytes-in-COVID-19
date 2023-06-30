@@ -1,7 +1,7 @@
 # granulocytes-in-COVID-19
 High-dimensional profiling reveals phenotypic heterogeneity and disease-specific alterations of granulocytes in COVID-19.
 
-Publication:Lourda M, Dzidic M, Hertwig L, Bergsten H, Palma Medina LM, Sinha I, Kvedaraite E, Chen P, Muvva JR, Gorin JB, Cornillet M, Emgård J, Moll K, García M, Maleki KT, Klingström J, Michaëlsson J, Flodström-Tullberg M, Brighenti S, Buggert M, Mjösberg J, Malmberg KJ, Sandberg JK, Henter JI, Folkesson E, Gredmark-Russ S, Sönnerborg A, Eriksson LI, Rooyackers O, Aleman S, Strålin K, Ljunggren HG, Björkström NK, Svensson M, Ponzetta A, Norrby-Teglund A, Chambers BJ; Karolinska KI/K COVID-19 Study Group. High-dimensional profiling reveals phenotypic heterogeneity and disease-specific alterations of granulocytes in COVID-19. Proc Natl Acad Sci U S A. 2021 Oct 5;118(40):e2109123118. doi: 10.1073/pnas.2109123118.
+Publication: Lourda M, Dzidic M, Hertwig L, Bergsten H, Palma Medina LM, Sinha I, Kvedaraite E, Chen P, Muvva JR, Gorin JB, Cornillet M, Emgård J, Moll K, García M, Maleki KT, Klingström J, Michaëlsson J, Flodström-Tullberg M, Brighenti S, Buggert M, Mjösberg J, Malmberg KJ, Sandberg JK, Henter JI, Folkesson E, Gredmark-Russ S, Sönnerborg A, Eriksson LI, Rooyackers O, Aleman S, Strålin K, Ljunggren HG, Björkström NK, Svensson M, Ponzetta A, Norrby-Teglund A, Chambers BJ; Karolinska KI/K COVID-19 Study Group. High-dimensional profiling reveals phenotypic heterogeneity and disease-specific alterations of granulocytes in COVID-19. Proc Natl Acad Sci U S A. 2021 Oct 5;118(40):e2109123118. doi: 10.1073/pnas.2109123118.
 
 The code in this repository was used for the above publication.  
 
